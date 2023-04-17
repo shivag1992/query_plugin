@@ -1,5 +1,6 @@
 A ChatGPT plugin that lets you specify any public URL and run queries against it!
-
+ChatGPT currently does not have access to the internet but that changes with plugins.
+You can now use it to understand public documents better, run data science queries on public data etc.
 
 Link to Video Demo:
 https://youtu.be/uhpQ3pkNCTY
